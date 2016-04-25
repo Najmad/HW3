@@ -1,5 +1,5 @@
 body {
-	background: url(../Images/about.jpg) no-repeat center center fixed;
+	background: url(../Images/background.jpg) no-repeat center center fixed;
 
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -17,38 +17,18 @@ background-size: cover;
   src: url(../fonts/Candy.ttf);
 }
 
-img {
-	border-radius: 55%;
-	width: 200px;
-	height: 200px;
-	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-	-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .8);
-	-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .8);
-	float: left;
-
-}
-p {
-	display: block;
-
-}
-
 h1 {
-	font-size: 80px;
+	font-size: 70px;
 	color: black;
-	font-family: book antiqua;
+	font-family: Font1;
 	text-align: center;
-	margin-right: 24%;
-
 }
 
 h2 {
-	font-size: 28px;
+	font-size: 100px;
 	color: black;
-	font-family: book antiqua;
+	font-family: Font1;
 	text-align: center;
-	margin: 10px;
-	margin-top: 15px;
-	padding: 10px;
 }
 
 .container{
@@ -58,7 +38,6 @@ h2 {
 	width: 1024px;
 	height: all;
 	border: solid 4px black;
-	padding: 10px;
 }
 
 .container2{
